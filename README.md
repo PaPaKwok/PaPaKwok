@@ -1,20 +1,22 @@
-<p align="center">
-  <b><font size="7">Hi there, I'm Kwok Pak Pang 👋</font></b><br><br>
-  <b><font size="5">🎓 华南理工大学 · 电气工程及其自动化</font></b><br>
-  <font size="4"><strong>Electric Power of Engineering, South China University of Technology</strong></font>
-</p>
+<h1 align="center">
+Hi there, I'm Kwok Pak Pang 👋
+</h1>
+<h2 align="center">
+🎓 华南理工大学 · 电气工程及其自动化<br>
+<strong>Electric Power of Engineering, South China University of Technology</strong>
+</h2>
 
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,github,gmail,instagram,linkedin,matlab,obsidian,py,twitter,vscode,windows" />
-  </a>
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=cpp,github,gmail,instagram,linkedin,matlab,obsidian,py,twitter,vscode,windows" />
+</a>
 </p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PaPaKwok&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PaPaKwok&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=PaPaKwok&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PaPaKwok&theme=tokyonight&hide_border=true" />
 </p>
