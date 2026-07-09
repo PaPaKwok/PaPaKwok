@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://skillicons.dev">
+
     ### Hi there, I'm Kwok Pak Pang 👋
     🎓 华南理工大学 · 电气工程及其自动化
 Electric Power of Engineering, South China University of Technology
-  </a>
+
 </p>
 
 
