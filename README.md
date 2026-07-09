@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Kwok Pak Pang 👋</h1>
-<h2 align="center"></strong>
+<h2 align="center">
   🎓 华南理工大学 · 电气工程及其自动化<br>
-  Electric Power of Engineering, South China University of Technology
-</strong></h2>
+  </strong>Electric Power of Engineering, South China University of Technology</strong>
+</h2>
 
 ## 🛠 My Tech Stack
 
