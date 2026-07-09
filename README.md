@@ -1,6 +1,10 @@
-### Hi there, I'm Kwok Pak Pang 👋
-
-🎓 华南理工大学 · 电气工程及其自动化
+<p align="center">
+  <a href="https://skillicons.dev">
+    ### Hi there, I'm Kwok Pak Pang 👋
+    🎓 华南理工大学 · 电气工程及其自动化
+Electric Power of Engineering, South China University of Technology
+  </a>
+</p>
 
 
 ---
@@ -8,7 +12,9 @@
 ## 🛠 My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,github,gmail,instagram,linkedin,matlab,obsidian,py,twitter,vscode,windows" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,github,gmail,instagram,linkedin,matlab,obsidian,py,twitter,vscode,windows" />
+  </a>
 </p>
 
 ## 📊 GitHub Stats
