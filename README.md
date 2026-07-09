@@ -1,7 +1,7 @@
 <p align="center">
-  <b><font size="6">Hi there, I'm Kwok Pak Pang 👋</font></b><br><br>
-  <b><font size="4">🎓 华南理工大学 · 电气工程及其自动化</font></b><br>
-  <font size="3"><strong>Electric Power of Engineering, South China University of Technology</strong></font>
+  <b><font size="7">Hi there, I'm Kwok Pak Pang 👋</font></b><br><br>
+  <b><font size="5">🎓 华南理工大学 · 电气工程及其自动化</font></b><br>
+  <font size="4"><strong>Electric Power of Engineering, South China University of Technology</strong></font>
 </p>
 
 ## 🛠 My Tech Stack
